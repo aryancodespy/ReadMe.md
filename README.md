@@ -8,7 +8,7 @@ I am learning Full Stack Development with The Odin Project.
 
 *   ✉️  You can contact me at [aryanahmed11@outlook.com](mailto:aryanahmed11@outlook.com)
 *   🧠  I'm learning JavaScript Basics
-*   ⚡  I'm also Python
+*   ⚡  I'm also learning Python
 
 <a href="https://www.twitter.com/aryancodespy" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/aryancodespy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
