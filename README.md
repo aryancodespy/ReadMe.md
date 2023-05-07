@@ -11,7 +11,7 @@ I am learning Full Stack Development with The Odin Project.
 *   ⚡  I'm also learning Python
 
 <a href="https://www.twitter.com/aryancodes_" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/aryancodespy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+  <img src="https://img.shields.io/twitter/follow/aryancodes_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills 
