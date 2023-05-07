@@ -10,7 +10,7 @@ I am learning Full Stack Development with The Odin Project.
 *   🧠  I'm learning JavaScript Basics
 *   ⚡  I'm also learning Python
 
-<a href="https://www.twitter.com/aryancodespy" target="_blank" rel="noreferrer">
+<a href="https://www.twitter.com/aryancodes_" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/aryancodespy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
