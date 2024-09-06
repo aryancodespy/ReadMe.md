@@ -6,7 +6,7 @@ I am an aspiring Full Stack Developer
 
 I am learning Full Stack Development with The Odin Project.
 
-*   ✉️  You can contact me at [aryanahmed11@outlook.com](mailto:aryanahmed11@outlook.com)
+*   ✉️  You can contact me at [aryan.webnoxia@gmail.com](mailto:aryan.webnoxia@gmail.com)
 *   🧠  I'm currently learning JavaScript.
 *   ⚡  I'm also learning Python.
 
